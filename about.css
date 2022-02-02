@@ -1,0 +1,30 @@
+h1{
+	background-color: black;
+	text-align: center;
+	color: green;
+	font-family: fantasy;
+	padding: 18px;
+}
+img{
+	height: 200px;
+}
+.para1{
+	margin-top: 20px;
+}
+.para01{
+	margin-top: 250px;
+}
+.para2{
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.para02{
+    margin-top: 100px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	margin-top: 20px;
+	padding: 3px;
+}

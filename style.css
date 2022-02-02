@@ -1,0 +1,25 @@
+*{
+	font-family: montserrat;
+}
+h1{
+	color: green;
+	font-family: fantasy;
+	background-color: black;
+	text-align: center;
+	padding: 18px;
+
+}
+hr{
+	border: 2px;
+}
+p{
+	font size: 15px;
+}
+
+footer{
+	margin-top: 20px;
+	background-color: black;
+	color: white;
+	padding: 3px;
+	text-align: center;
+}
